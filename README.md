@@ -17,8 +17,8 @@ Step 8:Handle any potential errors during the transcribing process. If the audio
 
 ## Program:
 ```
-Developed By : Akkireddy Ruchitha Reddy
-Register Number : 212221230004
+Developed By : k sucharitha
+Register Number : 212221240021
 ```
 ```
 import speech_recognition as sr
